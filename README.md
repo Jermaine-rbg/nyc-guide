@@ -2,6 +2,8 @@
 
 ## Wondering about fun activities to do in the big city? Check out this directory of activities in each borough!
 
+![Home Page]( New_York_City_Map.svg.png)
+
 ### 1. Create a virtual environment
 
 At the root folder of the repository run:
