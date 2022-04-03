@@ -1,6 +1,6 @@
 # New York City Guide - Django Project
 
-## To start building the project:
+## Wondering about fun activities to do in the big city? Check out this directory of activities in each borough!
 
 ### 1. Create a virtual environment
 
