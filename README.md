@@ -36,4 +36,8 @@ python manage.py runserver
 ```
 And go to `http://localhost:8000`
 
-#comment added by Anthony
+## Contributors 
+
+[Contributor](https://github.com/Jermaine-rbg)
+
+[Contibutor](https://github.com/ponyNYC)
