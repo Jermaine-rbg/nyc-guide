@@ -38,6 +38,6 @@ And go to `http://localhost:8000`
 
 ## Contributors 
 
-[Contributor](https://github.com/Jermaine-rbg)
+[Jermaine's GitHub](https://github.com/Jermaine-rbg)
 
-[Contibutor](https://github.com/ponyNYC)
+[Anthony GitHub](https://github.com/ponyNYC)
