@@ -40,4 +40,4 @@ And go to `http://localhost:8000`
 
 [Jermaine's GitHub](https://github.com/Jermaine-rbg)
 
-[Anthony GitHub](https://github.com/ponyNYC)
+[Anthony's GitHub](https://github.com/ponyNYC)
