@@ -42,4 +42,4 @@ And go to `http://localhost:8000`
 
 [Anthony's GitHub](https://github.com/ponyNYC)
 
-update
+Copyright 2022
