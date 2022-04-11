@@ -17,9 +17,3 @@ class BoroughView(View):
             context={'borough': borough, 'activities': boroughs[borough].keys()},
         )
 
-class ActivityView(View):
-    pass
-
-
-class VenueView(View):
-   pass
