@@ -18,9 +18,3 @@ class BoroughView(View):
         )
 
 
-class ActivityView(View):
-    pass
-
-
-class VenueView(View):
-    pass
